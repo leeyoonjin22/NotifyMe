@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="notification_channel_name">notification channel name</string>
+    <string name="notification_channel_description">notification channel description</string>
+    <string name="update">Update Notification</string>
+    <string name="notification_title">You\'ve been notified!</string>
+    <string name="notification_text">Notified Text</string>
+    <string name="notification_updated">Notification Updated!</string>
+</resources>
